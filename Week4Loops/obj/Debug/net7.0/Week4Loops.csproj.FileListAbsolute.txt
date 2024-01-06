@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/bin/Debug/net7.0/Week4Loops
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/bin/Debug/net7.0/Week4Loops.deps.json
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/bin/Debug/net7.0/Week4Loops.runtimeconfig.json
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/bin/Debug/net7.0/Week4Loops.dll
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/bin/Debug/net7.0/Week4Loops.pdb
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.AssemblyInfo.cs
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.dll
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/refint/Week4Loops.dll
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.pdb
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/Week4Loops.genruntimeconfig.cache
+/Users/carolinesund/Projects/Week4Loops/Week4Loops/obj/Debug/net7.0/ref/Week4Loops.dll
